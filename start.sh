@@ -22,4 +22,4 @@ fi
 $VIRTUALENV/bin/pip3 install -r requirements.txt
 
 # Run your glorious application
-$VIRTUALENV/bin/python3 server.py
+$VIRTUALENV/bin/python3 alias.py
